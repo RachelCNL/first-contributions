@@ -1692,4 +1692,6 @@ chani-israel
 - [Lennart Pries](https://github.com/lennart02)
 - Aviya Atias
 - [Carlos Sais](https://github.com/csais3)
+- .[Rachel CG].(https://github.com/RachelCNL)
+- 
 - <!-- prettier-ignore-end -->
